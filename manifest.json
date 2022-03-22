@@ -2,38 +2,18 @@
   "author": "Vladislav Vančura",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "vancura-marketa-lazarova-6a85a5b",
+  "identifier": "vancura-marketa-lazarova-c26d24b",
   "languagecode": "cs",
   "modified": "2021-11-02T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Marketa Lazarová",
-  "revision": "6a85a5b",
+  "revision": "c26d24b",
   "generatedAt": {
-    "date": "Tue Mar 22 2022 08:24:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647937485510
+    "date": "Tue Mar 22 2022 08:34:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647938049062
   },
   "documents": [
-    {
-      "title": "Marketa Lazarová",
-      "file": "marketa_lazarova_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "marketa_lazarova_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Marketa Lazarová",
       "file": "marketa_lazarova_002.html",
@@ -41,68 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "marketa_lazarova_001.html",
-      "next": "marketa_lazarova_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Marketa Lazarová",
-      "file": "marketa_lazarova_003.html",
-      "words": 4,
-      "chars": 33,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "marketa_lazarova_002.html",
-      "next": "marketa_lazarova_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Marketa Lazarová",
-      "file": "marketa_lazarova_004.html",
-      "words": 81,
-      "chars": 559,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "marketa_lazarova_003.html",
-      "next": "marketa_lazarova_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Marketa Lazarová",
-      "file": "marketa_lazarova_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 4,
-      "prev": "marketa_lazarova_004.html",
+      "order": 0,
+      "prev": null,
       "next": "marketa_lazarova_006.html",
       "toc": [
         {
@@ -121,8 +41,8 @@
       "chars": 8,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
-      "prev": "marketa_lazarova_005.html",
+      "order": 1,
+      "prev": "marketa_lazarova_002.html",
       "next": "marketa_lazarova_007.html",
       "toc": [
         {
@@ -141,7 +61,7 @@
       "chars": 21022,
       "ideas": 74,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "marketa_lazarova_006.html",
       "next": "marketa_lazarova_008.html",
       "toc": [
@@ -161,7 +81,7 @@
       "chars": 38195,
       "ideas": 134,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "marketa_lazarova_007.html",
       "next": "marketa_lazarova_009.html",
       "toc": [
@@ -181,7 +101,7 @@
       "chars": 31306,
       "ideas": 100,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "marketa_lazarova_008.html",
       "next": "marketa_lazarova_010.html",
       "toc": [
@@ -201,7 +121,7 @@
       "chars": 16044,
       "ideas": 53,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "marketa_lazarova_009.html",
       "next": "marketa_lazarova_011.html",
       "toc": [
@@ -221,7 +141,7 @@
       "chars": 13284,
       "ideas": 49,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "marketa_lazarova_010.html",
       "next": "marketa_lazarova_012.html",
       "toc": [
@@ -241,7 +161,7 @@
       "chars": 24855,
       "ideas": 78,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "marketa_lazarova_011.html",
       "next": "marketa_lazarova_013.html",
       "toc": [
@@ -261,7 +181,7 @@
       "chars": 15106,
       "ideas": 48,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "marketa_lazarova_012.html",
       "next": "marketa_lazarova_014.html",
       "toc": [
@@ -281,7 +201,7 @@
       "chars": 11110,
       "ideas": 43,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "marketa_lazarova_013.html",
       "next": "marketa_lazarova_015.html",
       "toc": [
@@ -301,7 +221,7 @@
       "chars": 32413,
       "ideas": 112,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "marketa_lazarova_014.html",
       "next": "marketa_lazarova_016.html",
       "toc": [
@@ -321,9 +241,9 @@
       "chars": 20419,
       "ideas": 72,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "marketa_lazarova_015.html",
-      "next": "marketa_lazarova_017.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -335,20 +255,20 @@
       ]
     },
     {
-      "title": "Marketa Lazarová",
-      "file": "marketa_lazarova_017.html",
-      "words": 42,
-      "chars": 277,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 16,
+      "title": "Tiráž • Marketa Lazarová",
+      "file": "colophon.html",
+      "words": 130,
+      "chars": 887,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
       "prev": "marketa_lazarova_016.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -357,14 +277,14 @@
   ],
   "totals": {
     "all": {
-      "words": 37808,
-      "chars": 224680,
-      "ideas": 789
+      "words": 37810,
+      "chars": 224693,
+      "ideas": 790
     },
     "chapters": {
-      "words": 37801,
-      "chars": 224631,
-      "ideas": 784
+      "words": 37674,
+      "chars": 223762,
+      "ideas": 764
     }
   }
 }

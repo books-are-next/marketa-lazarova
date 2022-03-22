@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-6a85a5b';
+const CACHE = 'cache-c26d24b';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./marketa_lazarova_001.html","./marketa_lazarova_002.html","./marketa_lazarova_003.html","./marketa_lazarova_004.html","./marketa_lazarova_005.html","./marketa_lazarova_006.html","./marketa_lazarova_007.html","./marketa_lazarova_008.html","./marketa_lazarova_009.html","./marketa_lazarova_010.html","./marketa_lazarova_011.html","./marketa_lazarova_012.html","./marketa_lazarova_013.html","./marketa_lazarova_014.html","./marketa_lazarova_015.html","./marketa_lazarova_016.html","./marketa_lazarova_017.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.png","./resources/image003.png","./resources/image004.jpg","./resources/obalka_marketa_lazarova2.png","./resources/upoutavka_eknihy.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./marketa_lazarova_002.html","./marketa_lazarova_006.html","./marketa_lazarova_007.html","./marketa_lazarova_008.html","./marketa_lazarova_009.html","./marketa_lazarova_010.html","./marketa_lazarova_011.html","./marketa_lazarova_012.html","./marketa_lazarova_013.html","./marketa_lazarova_014.html","./marketa_lazarova_015.html","./marketa_lazarova_016.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png","./resources/image001.png","./resources/image003.png","./resources/image004.jpg","./resources/obalka_marketa_lazarova2.png","./resources/upoutavka_eknihy.png"]));
 }
 
 self.addEventListener('fetch', e => {
