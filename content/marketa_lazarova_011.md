@@ -1,8 +1,7 @@
 ---
+title: Hlava pátá
 contentType: prose
 ---
-
-Hlava pátá
 
   
 

@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Marketa Lazarová
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Vladislav Vančura
   publisher: Městská knihovna v Praze
   modified: '2021-11-02T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - marketa_lazarova_001.html
   - marketa_lazarova_002.html
@@ -31,6 +35,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

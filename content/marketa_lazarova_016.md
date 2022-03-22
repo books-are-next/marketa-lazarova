@@ -1,8 +1,7 @@
 ---
+title: Hlava desátá
 contentType: prose
 ---
-
-Hlava desátá
 
   
 
@@ -146,4 +145,4 @@ Ti, kdo viděli tu smrt, ti všichni stáli bez dechu. Bylo pak zapsáno, že ž
 
 Marketa Lazarová! Ale to jméno není již její jméno. Tato paní povila syna jménem Václav. V témž čase slehla i Alexandra. Slehnuvši vzala si vlastní rukou život a Marketa kojila obě děti. Vyrostli z nich chlapáčtí chlapi, ale, žel, o jejich duši se sváří láska s ukrutností a jistota s pochybnostmi. Ó, krvi Kristiánova a Marketina!
 
-Můj básníku, toť příběh sestavený málem zbůhdarma. Vždyť jej tak dobře znáš! Vypravoval jsem jej bez umění a stěží si zasloužím tvou chválu. Což naplat. Proutek proutkařův se stále ohýbá nad těmito spodními vodami. Nenalezl jsem pramen, vyhlub sám na popsaném místě jámu a vykruž cisternu, z níž pijí jehničky.
+_Můj básníku, toť příběh sestavený málem zbůhdarma. Vždyť jej tak dobře znáš! Vypravoval jsem jej bez umění a stěží si zasloužím tvou chválu. Což naplat. Proutek proutkařův se stále ohýbá nad těmito spodními vodami. Nenalezl jsem pramen, vyhlub sám na popsaném místě jámu a vykruž cisternu, z níž pijí jehničky._
