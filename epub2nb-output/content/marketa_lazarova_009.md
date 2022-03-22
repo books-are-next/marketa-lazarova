@@ -1,8 +1,7 @@
 ---
+title: Hlava třetí
 contentType: prose
 ---
-
-Hlava třetí
 
   
 

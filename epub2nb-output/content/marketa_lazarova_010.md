@@ -1,8 +1,7 @@
 ---
+title: Hlava čtvrtá
 contentType: prose
 ---
-
-Hlava čtvrtá
 
   
 

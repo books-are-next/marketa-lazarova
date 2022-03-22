@@ -1,8 +1,7 @@
 ---
+title: Hlava osmá
 contentType: prose
 ---
-
-Hlava osmá
 
   
 

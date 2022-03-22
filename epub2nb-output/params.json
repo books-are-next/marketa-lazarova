@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Marketa Lazarová",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Vladislav Vančura",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-02T00:00:00.000Z"
+      "modified": "2021-11-02T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
@@ -17,12 +21,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text_bez1radku \nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku_-12-0-",
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_text_bez1radku_-I-\nMLP_venovani",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP_tiraz_autor_a_nazev",
       "remove": "",
       "ignore": ""
     },
@@ -30,6 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "marketa_lazarova_001.md",
@@ -40,7 +45,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_002.md",
@@ -51,7 +57,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_003.md",
@@ -62,7 +69,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_004.md",
@@ -73,7 +81,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_005.md",
@@ -84,7 +93,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_006.md",
@@ -95,7 +105,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_007.md",
@@ -106,7 +117,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_008.md",
@@ -117,7 +129,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_009.md",
@@ -128,7 +141,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_010.md",
@@ -139,7 +153,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_011.md",
@@ -150,7 +165,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_012.md",
@@ -161,7 +177,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_013.md",
@@ -172,7 +189,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_014.md",
@@ -183,7 +201,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_015.md",
@@ -194,7 +213,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_016.md",
@@ -205,7 +225,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "marketa_lazarova_017.md",
@@ -216,7 +237,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -262,67 +284,67 @@
         "xhtml": "marketa_lazarova_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Věnování",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_006.md",
         "xhtml": "marketa_lazarova_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlava první",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_007.md",
         "xhtml": "marketa_lazarova_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlava druhá",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_008.md",
         "xhtml": "marketa_lazarova_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlava třetí",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_009.md",
         "xhtml": "marketa_lazarova_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlava čtvrtá",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_010.md",
         "xhtml": "marketa_lazarova_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlava pátá",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_011.md",
         "xhtml": "marketa_lazarova_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlava šestá",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_012.md",
         "xhtml": "marketa_lazarova_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlava sedmá",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_013.md",
         "xhtml": "marketa_lazarova_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlava osmá",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_014.md",
         "xhtml": "marketa_lazarova_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlava devátá",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_015.md",
         "xhtml": "marketa_lazarova_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hlava desátá",
         "subtitleSuggest": "",
         "filename": "marketa_lazarova_016.md",
         "xhtml": "marketa_lazarova_016.xhtml"
@@ -394,6 +416,6 @@
       "user": "books-are-next",
       "repo": "marketa-lazarova"
     },
-    "generatedAt": 1647936930918
+    "generatedAt": 1647937396609
   }
 }

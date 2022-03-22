@@ -1,8 +1,7 @@
 ---
+title: Hlava šestá
 contentType: prose
 ---
-
-Hlava šestá
 
   
 

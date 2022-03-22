@@ -1,8 +1,7 @@
 ---
+title: Hlava devátá
 contentType: prose
 ---
-
-Hlava devátá
 
   
 

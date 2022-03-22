@@ -1,8 +1,7 @@
 ---
+title: Hlava sedmá
 contentType: prose
 ---
-
-Hlava sedmá
 
   
 

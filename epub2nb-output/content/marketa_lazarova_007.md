@@ -1,8 +1,7 @@
 ---
+title: Hlava první
 contentType: prose
 ---
-
-Hlava první
 
   
 

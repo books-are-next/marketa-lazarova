@@ -1,8 +1,7 @@
 ---
+title: Hlava druhá
 contentType: prose
 ---
-
-Hlava druhá
 
   
 

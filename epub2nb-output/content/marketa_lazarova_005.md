@@ -1,5 +1,6 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Jiří Mahenovi
+_Jiří Mahenovi_
