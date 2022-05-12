@@ -1,22 +1,38 @@
 {
-  "author": "Vladislav Vančura",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "vancura-marketa-lazarova-c26d24b",
-  "languagecode": "cs",
-  "modified": "2021-11-02T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Marketa Lazarová",
-  "revision": "c26d24b",
+  "author": "Vladislav Vančura",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "vancura-marketa-lazarova-83c265a",
+  "revision": "83c265a",
+  "readingOrder": [
+    "promo.html",
+    "marketa_lazarova_006.html",
+    "marketa_lazarova_007.html",
+    "marketa_lazarova_008.html",
+    "marketa_lazarova_009.html",
+    "marketa_lazarova_010.html",
+    "marketa_lazarova_011.html",
+    "marketa_lazarova_012.html",
+    "marketa_lazarova_013.html",
+    "marketa_lazarova_014.html",
+    "marketa_lazarova_015.html",
+    "marketa_lazarova_016.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Mar 22 2022 08:34:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647938049062
+    "date": "Thu May 12 2022 10:40:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352031310
   },
   "documents": [
     {
-      "title": "Marketa Lazarová",
-      "file": "marketa_lazarova_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +40,17 @@
       "order": 0,
       "prev": null,
       "next": "marketa_lazarova_006.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Věnování • Marketa Lazarová",
+      "title": "Věnování",
       "file": "marketa_lazarova_006.html",
       "words": 1,
       "chars": 8,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "marketa_lazarova_002.html",
+      "prev": "promo.html",
       "next": "marketa_lazarova_007.html",
       "toc": [
         {
@@ -55,7 +63,7 @@
       ]
     },
     {
-      "title": "Hlava první • Marketa Lazarová",
+      "title": "Hlava první",
       "file": "marketa_lazarova_007.html",
       "words": 3518,
       "chars": 21022,
@@ -75,7 +83,7 @@
       ]
     },
     {
-      "title": "Hlava druhá • Marketa Lazarová",
+      "title": "Hlava druhá",
       "file": "marketa_lazarova_008.html",
       "words": 6386,
       "chars": 38195,
@@ -95,7 +103,7 @@
       ]
     },
     {
-      "title": "Hlava třetí • Marketa Lazarová",
+      "title": "Hlava třetí",
       "file": "marketa_lazarova_009.html",
       "words": 5283,
       "chars": 31306,
@@ -115,7 +123,7 @@
       ]
     },
     {
-      "title": "Hlava čtvrtá • Marketa Lazarová",
+      "title": "Hlava čtvrtá",
       "file": "marketa_lazarova_010.html",
       "words": 2724,
       "chars": 16044,
@@ -135,7 +143,7 @@
       ]
     },
     {
-      "title": "Hlava pátá • Marketa Lazarová",
+      "title": "Hlava pátá",
       "file": "marketa_lazarova_011.html",
       "words": 2208,
       "chars": 13284,
@@ -155,7 +163,7 @@
       ]
     },
     {
-      "title": "Hlava šestá • Marketa Lazarová",
+      "title": "Hlava šestá",
       "file": "marketa_lazarova_012.html",
       "words": 4146,
       "chars": 24855,
@@ -175,7 +183,7 @@
       ]
     },
     {
-      "title": "Hlava sedmá • Marketa Lazarová",
+      "title": "Hlava sedmá",
       "file": "marketa_lazarova_013.html",
       "words": 2518,
       "chars": 15106,
@@ -195,7 +203,7 @@
       ]
     },
     {
-      "title": "Hlava osmá • Marketa Lazarová",
+      "title": "Hlava osmá",
       "file": "marketa_lazarova_014.html",
       "words": 1877,
       "chars": 11110,
@@ -215,7 +223,7 @@
       ]
     },
     {
-      "title": "Hlava devátá • Marketa Lazarová",
+      "title": "Hlava devátá",
       "file": "marketa_lazarova_015.html",
       "words": 5564,
       "chars": 32413,
@@ -235,7 +243,7 @@
       ]
     },
     {
-      "title": "Hlava desátá • Marketa Lazarová",
+      "title": "Hlava desátá",
       "file": "marketa_lazarova_016.html",
       "words": 3449,
       "chars": 20419,
@@ -255,11 +263,11 @@
       ]
     },
     {
-      "title": "Tiráž • Marketa Lazarová",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 130,
-      "chars": 887,
-      "ideas": 22,
+      "words": 112,
+      "chars": 744,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "marketa_lazarova_016.html",
@@ -277,9 +285,9 @@
   ],
   "totals": {
     "all": {
-      "words": 37810,
-      "chars": 224693,
-      "ideas": 790
+      "words": 37792,
+      "chars": 224550,
+      "ideas": 785
     },
     "chapters": {
       "words": 37674,

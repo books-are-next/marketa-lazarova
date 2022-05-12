@@ -52,7 +52,7 @@
             "filename": "marketa_lazarova_002.md",
             "xhtml": "marketa_lazarova_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -427,6 +427,6 @@
       "user": "books-are-next",
       "repo": "marketa-lazarova"
     },
-    "generatedAt": 1647937929565
+    "generatedAt": 1652351519917
   }
 }
