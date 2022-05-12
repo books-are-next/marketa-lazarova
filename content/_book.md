@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - marketa_lazarova_002.html
+  - promo.html
   - marketa_lazarova_006.html
   - marketa_lazarova_007.html
   - marketa_lazarova_008.html
