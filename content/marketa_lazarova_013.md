@@ -3,6 +3,8 @@ title: Hlava sedmá
 contentType: prose
 ---
 
+<section>
+
 Nitečka po nitečce se splétá v provaz. Vidím, že přemnohé vlákno je rudé a přemnohé že je černé, ale nastojte, copan v rukách provazníka se stříbří! Není nad laskavé srdce tohoto dělníka osudů.
 
 Co vypravovati? Cesta jako cesta! Při všech stezkách jsou utěšené roviny a ostruží a stromy přímé a stromy nerovného těla, jež zkazil vítr.
@@ -96,3 +98,5 @@ Hrabě však potřásá hlavou a jme se hrabati a rozmetá hrobovou hlínu na 
 Ach, noci, ach, úsvite! jakým šálením jste odpovídaly jeho horlivosti, jakým úsměvem mu odpovíte. Úsměvem, mezi jehož zuby zasychá pěna!
 
 Marketa vykřikla, vidouc strašné počínání starcovo a jata strachem dala se do běhu a utíkala dál a dál. Nebránili jí, ať běží. Reiner za ní mávl rukou. Nešťastnice utíkala ze všech sil, černé stíny se hýbaly pod jejíma nohama jako hadové, neboť slunce se již vyhouplo nad obzor. Někdy se přiházívá, že jarní a jitřní pohoda je oslnivá. Tehdy právě bylo lahodné počasí, nad poli se vznášelo něco par a něco jinovatky leželo na svazích. Marketa již šla zvolna. Zmáhala ji únava tak veliká, že se podobá spánku. Slyší zvonění a její údy vedou vlahé teplo.
+
+</section>

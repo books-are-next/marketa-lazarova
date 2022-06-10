@@ -3,6 +3,8 @@ title: Hlava čtvrtá
 contentType: prose
 ---
 
+<section>
+
 Poshovte mi, vzápětí povím, co se stalo s Alexandrou a co se přihodilo Kristiánovi. Vypovím zevrubně i to, co učinil, i to, co řekl Kristiánův otec, když přišel mezi loupežníky. Avšak dříve jest mi mluviti o královských vojácích a o jejich hejtmanovi Pivovi.
 
 Po Mikolášově přepadu se pluk zastavil jenom na maličkou chvíli. Když se Pivo zhostil vzteku a když zvážil příhodu, nemohl neshledati, že je nicotná. Těch několik vojáků, co padlo? Nu, selský národ obrůstá jako vrba a vždy znovu naplňuje svými těly propasti válek a vždy znovu a vždy vesele orá na starých bojištích. Vezmi ďas těch několik mrtvých a vezmi ďas i hraběte Kristiána.
@@ -106,3 +108,5 @@ U všech všudy, kdo by se toho nadál, že královi vojáci mají tak nezměrn
 Mikoláš uskočil jezdcům s cesty a tu, jak jeli příliš rychle, se stalo, že nemohli naráz zastaviti svůj běh. Bůh dopustil, že se rozptýlili a že je Mikolášova zuřivost zbíjela jednoho po druhém. Onoho dne upadl do zajetí Kozlík a mnozí jeho synové byli pobiti; mimo tato neštěstí se již nepřihodilo nic pamětihodného ani těm, kdo byli na útěku, ani těm, kdo je pronásledovali, ani těm, kdo setrvali sbírajíce kořist. Mikoláš schytal vojenské koně a odjel za svými bratry.
 
 Vypravování jej neprovází.
+
+</section>

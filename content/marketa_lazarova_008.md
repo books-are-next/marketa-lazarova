@@ -3,6 +3,8 @@ title: Hlava druhá
 contentType: prose
 ---
 
+<section>
+
 Kozlík byl zuřivý hrdopýšek, jeho synové se mu podobali, avšak jak mluví vypravování o jeho dcerách?
 
 O nic lépe! Žel, proslýchá se, že měly povahu lític, že byly hrubé a že jejich spanilost nic nebránila politováníhodným zálibám. Místo dívek je u ohně, avšak tyto divošky měly na mysli spíše kolbiště než pokorné práce v kuchyni. Věru nezasluhují se radovati, ale jejich smích a jejich chechtot netichne, ačkoliv nadešla noc. Mluví o zajatém Němci a posmívají se mu a není ani slechu o nějakém mravu. Kateřina se vzteká a opakuje jméno příchozího: Kristián, Kristián, Kristián. Druhé jsou k smíchu cizincovy bělostné ruce. Nenechají bez zmínky ani jeho způsob odívání a drahocenný prsten je ponouká k chechtotu. Copany, rulíky a záplava vlasů připomínají temnotu, z níž se vynořují běloskvoucí a dokonalé údy čarodějnic.
@@ -268,3 +270,5 @@ Stalo se, že mu Bůh určil tuto tmavovlásku. „Reinere, můj Reinere,“ pra
 Ale Kristián chvalořečil dál své přítelkyni a místo aby odpovídal, mluvil jen o tom, jak je krásná. Prosím vás, bylo mu devatenáct let.
 
 Nyní mi jde o to, abych uvedl omluvu pro Mikoláše, avšak nenalézám nic, leč jeho divokost. Bylo to pošetilé očekávati, že se z loupežníka stane naráz beránek. Nikoliv, láska jej rozplameňovala k novým násilnostem. Tento cit je planým důvodem k hříchu. Mikoláš jej měl přijímati s pokorou, měl děkovati Bohu za to, že mu dopřává, aby cítil tak výrazně svoji duši. Láska je lék od násilí a klíček k tajemství světa, který náš Pán udílí jen těm, v nichž se mu zalíbilo. Snad se někdy usmál na Mikoláše, vida jeho vojenský mrav. Kdysi spal náš chlapík v poli, maje ruce složeny na luku sedla. Zdál se mu líbezný sen a věru není nemožno, že se mu za jeho ryzost nyní dostává tak velikého štěstí. Ach, obdarovati hříšníka! Cítí se přeblažen, únava noci s něho padá. Nelení a nemá pokoje, dokud se neshledá s Marketou Lazarovou. Nešťastná slečna opět pláče. Obejme ji a noc třetí plyne jako noc prvá.
+
+</section>

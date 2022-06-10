@@ -3,6 +3,8 @@ title: Hlava první
 contentType: prose
 ---
 
+<section>
+
 Blázniviny se rozsévají nazdařbůh. Popřejte této příhodě místa v kraji mladoboleslavském, za času nepokojů, kdy král usiloval o bezpečnost silnic, maje ukrutné potíže se šlechtici, kteří si vedli doslova zlodějsky, a co je horší, kteří prolévali krev málem se chechtajíce. Stali jste se ze samého uvažování o ušlechtilosti a spanilém mravu našeho národa opravdu přecitlivělí a když pijete, rozléváte ke škodě kuchařčině vodu po stole, ale chlapi, o nichž počínám mluviti, byli zbujní a čertovští. Byla to chasa, již nedovedu přirovnati než k hřebcům. Pramálo se starali o to, co vy považujete za důležité. Kdežpak hřeben a mýdlo! Vždyť nedbali ani na boží přikázání.
 
 Praví se, že bylo bezpočet podobných randabasů, ale v této povídce nejde leč o rodinu, jejíž jméno připomíná Václava zajisté neprávem. To byli vykutálení šlechtici! Nejstarší za tohoto krvavého času byl pokřtěn líbezným jménem, ale zapomněl je a nazýval se až do své ohavné smrti Kozlík.
@@ -148,3 +150,5 @@ Bylo řečeno, že beránek přináší štěstí a nám se to rčení líbí.
 Kozlík měl pro svůj poklad skrýš na těžko přístupném místě v bažině uprostřed dubiny. Bývala mu dobrá v neklidných časech, kdy na něho král nebo sousedé dotírali. Dnes opět vybrakoval svůj poklad a vše, co nemohlo býti naloženo na koně, uložil do lesní pokladnice. Obcházeje známé místo, čekal, až se setmí, a tak se stalo, že se zdržel venku o chviličku déle než Jan. Vešel pomazán blátem a jeho strašná tvář byla dvojnásob strašnější.
 
 Mladý německý pán, který si tak dobře vedl na koni, byl nyní bledý, jako je rouška. Stál u ohniště a Kozlíkovi synové a jejich sestřičky a ostatní dámy věnovali mu všechen svůj zájem. Jiří mu svítil do tváře a měl jej k tomu, aby se obracel hned tak a hned onak. Podobá se, že věc nebyla příliš vzdálena od trápení, ale Bůh věděl, že se tak dálo proto, aby se stalo skutkem andělské dílo. Pán čas od času propůjčuje lidem, nechť jsou jakkoliv divocí, skvoucí bláhový a ušlechtilý cit, který je připodobňuje Jeho velebnosti. Vdmychuje v lidská srdce lásku, o níž se praví, že je korunou života. Louč sežehla mladému Němci brvy, nicméně viděl, co mu Bůh ukazoval. Spanilou Alexandru.
+
+</section>

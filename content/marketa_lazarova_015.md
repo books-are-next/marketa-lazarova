@@ -3,6 +3,8 @@ title: Hlava devátá
 contentType: prose
 ---
 
+<section>
+
 Ach Bože, Ježíši a Maria, Marketa Lazarová pláče a pláče. Nic jí nedodá ducha, nic ji nevzmuží a všechny síly od ní odstoupily. Je oděna jako děvečka a béře se vpřed malátným krokem. Hle, toť cesta jejích procházek, vlna lesíků a vlna polí, svažující se kraj, přeznámý kraj, do jehož nesličnosti Bůh zaklel sladký úsměv a líbeznost, jež navždy bude vyrážet z vašich prsou šťastný vzdech. Váš kraj, kraj Marketin! Hle, toť cesta bláhového blouznění, stezička studu, místečko poskakujícího stromu, mez hrabošova, doubek s ohništěm, vše, co jste milovali. Vše, co je ztraceno a co se opět vrací. Radujte se, přeběda těm, kdož se nemohou radovati v končinách své mladosti. Přeběda Marketě, neboť kráčí a nic nevidí a nic neslyší hledajíc prsten mezi kořeny neštěstí. Nezvedá hlavu a kdyby ji potkala její přítelkyně, která ji velice miluje, zajisté se nepoznají.
 
 Toho dne se přiblížilo jaro o pěkný kus cesty. Pastýři a pocestní lidé si vypravovali, že vzrůstá hlasem, neboť opravdu bylo slyšeti rohy větrů, do nichž dují sluneční andělé. Na loukách a na pastvinách nebeských se válela oblaka, jako se válí skot na pozemských loukách. Vál větérek, země osychala a v struhách a podél plůtků pučela prvá kvítka. Mysliti na vězení za tohoto probouzejícího se času? Toť truchlivé, toť věru smutná věc.
@@ -224,3 +226,5 @@ Smrt! Ach, to šílené jméno marnosti straší a straší. Nedám nic na tvoj
 Všichni budeme jedné noci na mrazivé stráži, všichni budeme ležeti pod zsinalou lunou a budeme pískati svou písničku štěrbinkou, která pooddálí naše tesáky, toť se ví, že se neubráníme. Vážení pánové, podívejte se však, jak je ta kmotřička sama bídná a uondaná. Vidím na jejím pařátu vřídek, který se má bujně k životu!
 
 A že jí nikdo neodolá? Slyšeli jste, že by přemohla milence? Nikoliv! Nikoliv! Hle, anděla zvěstování, jenž má brunátnou tvář! Je nádherného těla a směje se z plna hrdla. Slídí za vlnami křovisk, po ložnicích, podél řek, v sněhu a píscích a všude, kde jsou otisky těl, prodlí a zhusta zvedne svoji pravici a dlaň ruky levé přikládá k srdci. Říká slovíčka života. Miluje muže a ženy, ale nadmíru se mu protiví panenství a osamocení samci. Vážení pánové, příhody Markety Lazarové se nekončí! Nezemře, ale povije syna, kterému bude dáno jméno Václav. Tento Václav bude míti šest synů. Děti Burjanovy, děti Janovy, děti ostatních bratří a bezpočet levobočků budou rovněž nadáni dítkami. Ale nade vše je mi milé, že zůstal naživu strýc těchto dětí, nejmladší synáček Kozlíkův, jemuž rovněž nebude odepřena plodnost.
+
+</section>
