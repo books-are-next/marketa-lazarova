@@ -3,8 +3,6 @@ title: Hlava devátá
 contentType: prose
 ---
 
-  
-
 Ach Bože, Ježíši a Maria, Marketa Lazarová pláče a pláče. Nic jí nedodá ducha, nic ji nevzmuží a všechny síly od ní odstoupily. Je oděna jako děvečka a béře se vpřed malátným krokem. Hle, toť cesta jejích procházek, vlna lesíků a vlna polí, svažující se kraj, přeznámý kraj, do jehož nesličnosti Bůh zaklel sladký úsměv a líbeznost, jež navždy bude vyrážet z vašich prsou šťastný vzdech. Váš kraj, kraj Marketin! Hle, toť cesta bláhového blouznění, stezička studu, místečko poskakujícího stromu, mez hrabošova, doubek s ohništěm, vše, co jste milovali. Vše, co je ztraceno a co se opět vrací. Radujte se, přeběda těm, kdož se nemohou radovati v končinách své mladosti. Přeběda Marketě, neboť kráčí a nic nevidí a nic neslyší hledajíc prsten mezi kořeny neštěstí. Nezvedá hlavu a kdyby ji potkala její přítelkyně, která ji velice miluje, zajisté se nepoznají.
 
 Toho dne se přiblížilo jaro o pěkný kus cesty. Pastýři a pocestní lidé si vypravovali, že vzrůstá hlasem, neboť opravdu bylo slyšeti rohy větrů, do nichž dují sluneční andělé. Na loukách a na pastvinách nebeských se válela oblaka, jako se válí skot na pozemských loukách. Vál větérek, země osychala a v struhách a podél plůtků pučela prvá kvítka. Mysliti na vězení za tohoto probouzejícího se času? Toť truchlivé, toť věru smutná věc.

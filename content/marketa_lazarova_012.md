@@ -3,8 +3,6 @@ title: Hlava šestá
 contentType: prose
 ---
 
-  
-
 Hle, šlechtic vší měrou dokonalejší, než je Kristián, hle, Kozlík! Leží opodál mladého pána a má již duši na jazyku. Ušlo mu mnoho krve, je bledý a má stažená ústa.
 
 Nevím, jsou-li zaznamenány příklady větší neoblomnosti. Koz­líkovi byla zlomena ramenní kost. Kůže a svaly byly roztrženy kopytem, bok rytířův mokval krví, nešťastník se nemohl pohnouti bez hrozných bolestí, ale to vše nezastrašuje jeho ducha. Mocná přetvářka zadržuje výkřiky, mocná vůle jej budí opět k životu, mocná vůle jej má k činu, jehož by se měl varovati.

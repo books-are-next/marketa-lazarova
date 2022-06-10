@@ -3,8 +3,6 @@ title: Hlava pátá
 contentType: prose
 ---
 
-  
-
 Pozornost, kterou skýtáte těmto příhodám, nechť se vrátí znovu do bitvy k onomu okamžiku, kdy Mikoláš se svými lidmi přepadl část hejtmanova vojska. Vzpomínáte si, že hrabě Kristián a Lazar byli zajati v jednu chvíli. Nuže, co se s nimi stalo? Vzácní pánové, oba starci klusali podle koní majíce na krku smyčku. Loupežníci se pranic neohlíželi, že se provaz napíná, a spěchali za svým cílem. Pomoz Bůh nešťastným dědečkům! Nikdo s nimi nemá slitování. A přece! Mikoláš se ohlédl a vida je pokryty blátem a sněhem (neboť padali jako děti nenavyklé chůzi), poručil, aby přeťali jejich pouto.
 
 „Řekni mi svoje jméno,“ děl Kristiánovi.
