@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "vancura-marketa-lazarova-c2a4eca",
-  "revision": "c2a4eca",
+  "identifier": "vancura-marketa-lazarova-d0a5f15",
+  "revision": "d0a5f15",
   "readingOrder": [
     "promo.html",
     "marketa_lazarova_006.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870680124
+    "date": "Fri Jun 10 2022 17:52:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883541121
   },
   "documents": [
     {
@@ -45,9 +45,9 @@
     {
       "title": "Věnování",
       "file": "marketa_lazarova_006.html",
-      "words": 1,
-      "chars": 8,
-      "ideas": 1,
+      "words": 229,
+      "chars": 1288,
+      "ideas": 2,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -265,9 +265,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 112,
-      "chars": 744,
-      "ideas": 17,
+      "words": 76,
+      "chars": 540,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "marketa_lazarova_016.html",
@@ -285,14 +285,14 @@
   ],
   "totals": {
     "all": {
-      "words": 37792,
-      "chars": 224550,
-      "ideas": 785
+      "words": 37984,
+      "chars": 225626,
+      "ideas": 776
     },
     "chapters": {
-      "words": 37674,
-      "chars": 223762,
-      "ideas": 764
+      "words": 37902,
+      "chars": 225042,
+      "ideas": 765
     }
   }
 }

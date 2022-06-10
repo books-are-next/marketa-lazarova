@@ -3,6 +3,8 @@ title: Hlava šestá
 contentType: prose
 ---
 
+<section>
+
 Hle, šlechtic vší měrou dokonalejší, než je Kristián, hle, Kozlík! Leží opodál mladého pána a má již duši na jazyku. Ušlo mu mnoho krve, je bledý a má stažená ústa.
 
 Nevím, jsou-li zaznamenány příklady větší neoblomnosti. Koz­líkovi byla zlomena ramenní kost. Kůže a svaly byly roztrženy kopytem, bok rytířův mokval krví, nešťastník se nemohl pohnouti bez hrozných bolestí, ale to vše nezastrašuje jeho ducha. Mocná přetvářka zadržuje výkřiky, mocná vůle jej budí opět k životu, mocná vůle jej má k činu, jehož by se měl varovati.
@@ -156,3 +158,5 @@ Mikoláš se vyšvihl na koně a cítě zvíře mezi svými stehny a vdechnuv 
 „Ještě jsme se nepoddali, ještě se bráníme,“ řekl v odpověď, „nemluv o trestech a připravuj svatbu. Vzkazuji Lazarovi, že tě ubráním, vzkazuji Alexandřiným soudcům, že válka rozsévá smrt, neboť je učiněna hospodářem smrti. Kdo držívá meč, umírá od meče. Kdyby stál Kristián s námi, mohl být usmrcen svým otcem.“ Marketa se poznamenala křížem, cítíc, že nemá dosti sil, aby přidržela Mikolášovu duši.
 
 Byl čas, aby se dívky daly na cestu. Vzdalovaly se mlčky a jenom Marketa se ohlížela. Mikoláš připoutal tři koně a obrátil se do hloubi pralesa.
+
+</section>

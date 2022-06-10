@@ -3,6 +3,8 @@ title: Hlava pátá
 contentType: prose
 ---
 
+<section>
+
 Pozornost, kterou skýtáte těmto příhodám, nechť se vrátí znovu do bitvy k onomu okamžiku, kdy Mikoláš se svými lidmi přepadl část hejtmanova vojska. Vzpomínáte si, že hrabě Kristián a Lazar byli zajati v jednu chvíli. Nuže, co se s nimi stalo? Vzácní pánové, oba starci klusali podle koní majíce na krku smyčku. Loupežníci se pranic neohlíželi, že se provaz napíná, a spěchali za svým cílem. Pomoz Bůh nešťastným dědečkům! Nikdo s nimi nemá slitování. A přece! Mikoláš se ohlédl a vida je pokryty blátem a sněhem (neboť padali jako děti nenavyklé chůzi), poručil, aby přeťali jejich pouto.
 
 „Řekni mi svoje jméno,“ děl Kristiánovi.
@@ -98,3 +100,5 @@ Domníváte se, že mocné dojetí stráví sílu dívčina srdce, bojíte se, �
 Amazonka bije koně, který klopýtá, bije koně a ponouká ho k běhu ještě bystřejšímu. Oč je šťastnější než její milenec! Kdo ho utěší, kdo mu řekne povzbudivé slovíčko. Tuším ve skloněné hlavě opět rozjímání, ale neváhal bych rozraziti tlum pochyb, neváhal bych vysoliti mu zároveň s loupežníky pěkných pár ran na zamyšlenou zadnici. Zraditi milenku! Vy byste, pane hrabě, zasluhoval!
 
 Ale nechte jej, ať si posedává po kamenech a žižlá prsty.
+
+</section>
