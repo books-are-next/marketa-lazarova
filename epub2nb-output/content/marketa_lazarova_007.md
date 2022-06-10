@@ -3,8 +3,6 @@ title: Hlava první
 contentType: prose
 ---
 
-  
-
 Blázniviny se rozsévají nazdařbůh. Popřejte této příhodě místa v kraji mladoboleslavském, za času nepokojů, kdy král usiloval o bezpečnost silnic, maje ukrutné potíže se šlechtici, kteří si vedli doslova zlodějsky, a co je horší, kteří prolévali krev málem se chechtajíce. Stali jste se ze samého uvažování o ušlechtilosti a spanilém mravu našeho národa opravdu přecitlivělí a když pijete, rozléváte ke škodě kuchařčině vodu po stole, ale chlapi, o nichž počínám mluviti, byli zbujní a čertovští. Byla to chasa, již nedovedu přirovnati než k hřebcům. Pramálo se starali o to, co vy považujete za důležité. Kdežpak hřeben a mýdlo! Vždyť nedbali ani na boží přikázání.
 
 Praví se, že bylo bezpočet podobných randabasů, ale v této povídce nejde leč o rodinu, jejíž jméno připomíná Václava zajisté neprávem. To byli vykutálení šlechtici! Nejstarší za tohoto krvavého času byl pokřtěn líbezným jménem, ale zapomněl je a nazýval se až do své ohavné smrti Kozlík.

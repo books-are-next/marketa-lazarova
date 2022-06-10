@@ -3,8 +3,6 @@ title: Hlava sedmá
 contentType: prose
 ---
 
-  
-
 Nitečka po nitečce se splétá v provaz. Vidím, že přemnohé vlákno je rudé a přemnohé že je černé, ale nastojte, copan v rukách provazníka se stříbří! Není nad laskavé srdce tohoto dělníka osudů.
 
 Co vypravovati? Cesta jako cesta! Při všech stezkách jsou utěšené roviny a ostruží a stromy přímé a stromy nerovného těla, jež zkazil vítr.

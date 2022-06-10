@@ -3,8 +3,6 @@ title: Hlava čtvrtá
 contentType: prose
 ---
 
-  
-
 Poshovte mi, vzápětí povím, co se stalo s Alexandrou a co se přihodilo Kristiánovi. Vypovím zevrubně i to, co učinil, i to, co řekl Kristiánův otec, když přišel mezi loupežníky. Avšak dříve jest mi mluviti o královských vojácích a o jejich hejtmanovi Pivovi.
 
 Po Mikolášově přepadu se pluk zastavil jenom na maličkou chvíli. Když se Pivo zhostil vzteku a když zvážil příhodu, nemohl neshledati, že je nicotná. Těch několik vojáků, co padlo? Nu, selský národ obrůstá jako vrba a vždy znovu naplňuje svými těly propasti válek a vždy znovu a vždy vesele orá na starých bojištích. Vezmi ďas těch několik mrtvých a vezmi ďas i hraběte Kristiána.

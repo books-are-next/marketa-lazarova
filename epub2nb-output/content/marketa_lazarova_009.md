@@ -3,8 +3,6 @@ title: Hlava třetí
 contentType: prose
 ---
 
-  
-
 Biskupovi sluhové se hnali kamsi až do horoucích pekel. Ptali se sedláků a ptali se kupců, avšak nikdo neviděl jezdce, který by se podobal Kristiánovi. Jezdci počali váhat a zvolnili svůj běh. Podobalo se, že hrabě sešel s cesty a že ho nedostihnou.
 
 „Co učiníme?“ ptal se ten, který je vedl, „naše kořist je za horami a Reiner je někde v prachu. Snad se ten ničema zaběhl, či nás snad zradil? Ať je tomu jakkoliv, cítím, že nám jde o kůži. Po vesnicích se mluví o královském vojsku, panečku, to má na loupežníky spadeno! Nechtěl bych se s ním setkat, neboť konec konců, copak jsme něco jiného než lapkové? U všech všudy! Viděl jsem po českých městech mnoho šibenic a nechci nic míti s jejich spravedlností! Lépe je býti vypráskán od biskupa, než popraven od krále. Neřekl bych nic, kdyby se naše služba skončila ve třech dnech, ale štráchati se týden v cizí zemi? Poptávati se a buditi pozornost? Není to totéž, jako bychom prosili o oprátku? Vraťme se, pro lásku boží, k biskupovi a řekněme mu, že nás honili královští sem a tam a že jsme sotva vyvázli životem.“

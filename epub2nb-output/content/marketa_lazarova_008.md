@@ -3,8 +3,6 @@ title: Hlava druhá
 contentType: prose
 ---
 
-  
-
 Kozlík byl zuřivý hrdopýšek, jeho synové se mu podobali, avšak jak mluví vypravování o jeho dcerách?
 
 O nic lépe! Žel, proslýchá se, že měly povahu lític, že byly hrubé a že jejich spanilost nic nebránila politováníhodným zálibám. Místo dívek je u ohně, avšak tyto divošky měly na mysli spíše kolbiště než pokorné práce v kuchyni. Věru nezasluhují se radovati, ale jejich smích a jejich chechtot netichne, ačkoliv nadešla noc. Mluví o zajatém Němci a posmívají se mu a není ani slechu o nějakém mravu. Kateřina se vzteká a opakuje jméno příchozího: Kristián, Kristián, Kristián. Druhé jsou k smíchu cizincovy bělostné ruce. Nenechají bez zmínky ani jeho způsob odívání a drahocenný prsten je ponouká k chechtotu. Copany, rulíky a záplava vlasů připomínají temnotu, z níž se vynořují běloskvoucí a dokonalé údy čarodějnic.

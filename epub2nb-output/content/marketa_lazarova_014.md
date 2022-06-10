@@ -3,8 +3,6 @@ title: Hlava osmá
 contentType: prose
 ---
 
-  
-
 Asi za dvě hodiny jel sedlák orat na vzdálené pole. Pole bylo u lesa, to je políčko věčně ve stínu. Tu se v něm válejí dva kanci a tu je zdupá jelen; je to políčko pro zlost.
 
 Sedlák sije pro lesní havěť, činí to poslušně, ale věru, že si přitom nezpívá. Nezpívá, ba ani se neohlíží spěchaje za svým dílem. Byl tak nevšímavý, že nezbylo, než aby před ním Prozřetelnost sypala cestičku příhod. Uviděl zajíce, jenž skáče o třech, slyšel přesilně zpívati ptáčka, rozhlédl se a tu spatřil Marketu Lazarovou. Spala. Nevěděl, kdo to je a nikoho mu nepřipomínala. Mrzel se, že ztrácí čas, mrzel se na zpropadené čertoviny, jež nám posílají do cesty tulačky, ale protože byla chladná země a protože je člověku horko, když oře, hodil na chudinku plášť a přikryl ji. Toť se ví, že nepospíchal, aby ji odvedl domů. Oral a když dooral, vrátil se pro svůj kabát. Vzal, co bylo jeho, a zatřásl dívčiným ramenem, řka:
