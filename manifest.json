@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "vancura-marketa-lazarova-c2250bd",
-  "revision": "c2250bd",
+  "identifier": "vancura-marketa-lazarova-0054bd5",
+  "revision": "0054bd5",
   "readingOrder": [
     "promo.html",
     "marketa_lazarova_006.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:06:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949190340
+    "date": "Mon Jun 13 2022 21:31:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655155911390
   },
   "documents": [
     {
@@ -265,9 +265,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 76,
-      "chars": 540,
-      "ideas": 7,
+      "words": 112,
+      "chars": 744,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "marketa_lazarova_016.html",
@@ -285,9 +285,9 @@
   ],
   "totals": {
     "all": {
-      "words": 37984,
-      "chars": 225626,
-      "ideas": 776
+      "words": 38020,
+      "chars": 225830,
+      "ideas": 786
     },
     "chapters": {
       "words": 37902,

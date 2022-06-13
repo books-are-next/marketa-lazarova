@@ -13,6 +13,7 @@ meta:
   modified: '2021-11-02T00:00:00.000Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2494-8
 readingOrder:
   - promo.html
   - marketa_lazarova_006.html
