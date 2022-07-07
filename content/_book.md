@@ -27,7 +27,7 @@ readingOrder:
   - marketa_lazarova_014.html
   - marketa_lazarova_015.html
   - marketa_lazarova_016.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
