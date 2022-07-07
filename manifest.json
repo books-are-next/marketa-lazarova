@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "vancura-marketa-lazarova-1234323",
-  "revision": "1234323",
+  "identifier": "vancura-marketa-lazarova-0338f98",
+  "revision": "0338f98",
   "readingOrder": [
     "promo.html",
     "marketa_lazarova_006.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:33:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657182807574
+    "date": "Thu Jul 07 2022 10:02:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657188177596
   },
   "documents": [
     {
